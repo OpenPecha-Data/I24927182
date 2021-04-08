@@ -10,8 +10,10 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 798
+      base_file: v001.txt
     8d8ed06aafaa49ca9d5f7e21c3699959:
       image_group_id: I5746
       title: ''
       volume_number: 2
       total_pages: 800
+      base_file: v002.txt
